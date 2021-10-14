@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Pedro/static/css/main.c7453bfe.chunk.css",
+    "main.js": "/Portfolio-Pedro/static/js/main.e6b04352.chunk.js",
+    "main.js.map": "/Portfolio-Pedro/static/js/main.e6b04352.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Pedro/static/js/runtime-main.4007d9ed.js",
+    "runtime-main.js.map": "/Portfolio-Pedro/static/js/runtime-main.4007d9ed.js.map",
+    "static/css/2.9a4a10e0.chunk.css": "/Portfolio-Pedro/static/css/2.9a4a10e0.chunk.css",
+    "static/js/2.9f625bfe.chunk.js": "/Portfolio-Pedro/static/js/2.9f625bfe.chunk.js",
+    "static/js/2.9f625bfe.chunk.js.map": "/Portfolio-Pedro/static/js/2.9f625bfe.chunk.js.map",
+    "static/js/3.053d1ea5.chunk.js": "/Portfolio-Pedro/static/js/3.053d1ea5.chunk.js",
+    "static/js/3.053d1ea5.chunk.js.map": "/Portfolio-Pedro/static/js/3.053d1ea5.chunk.js.map",
+    "index.html": "/Portfolio-Pedro/index.html",
+    "static/css/2.9a4a10e0.chunk.css.map": "/Portfolio-Pedro/static/css/2.9a4a10e0.chunk.css.map",
+    "static/css/main.c7453bfe.chunk.css.map": "/Portfolio-Pedro/static/css/main.c7453bfe.chunk.css.map",
+    "static/js/2.9f625bfe.chunk.js.LICENSE.txt": "/Portfolio-Pedro/static/js/2.9f625bfe.chunk.js.LICENSE.txt",
+    "static/media/avatar-1.9277ecea.png": "/Portfolio-Pedro/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/Portfolio-Pedro/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/Portfolio-Pedro/static/media/avatar-3.d6c9b46f.png",
+    "static/media/avatar-4.f7fb7ed7.png": "/Portfolio-Pedro/static/media/avatar-4.f7fb7ed7.png",
+    "static/media/beiramar.b2b122c1.png": "/Portfolio-Pedro/static/media/beiramar.b2b122c1.png",
+    "static/media/city-guide-app.e4843bd0.png": "/Portfolio-Pedro/static/media/city-guide-app.e4843bd0.png",
+    "static/media/estacio.7d007675.png": "/Portfolio-Pedro/static/media/estacio.7d007675.png",
+    "static/media/ifsc.08b63e04.png": "/Portfolio-Pedro/static/media/ifsc.08b63e04.png",
+    "static/media/intelbras.c5016d6c.png": "/Portfolio-Pedro/static/media/intelbras.c5016d6c.png",
+    "static/media/logo.d70faf1e.png": "/Portfolio-Pedro/static/media/logo.d70faf1e.png",
+    "static/media/me.597d6b24.jpg": "/Portfolio-Pedro/static/media/me.597d6b24.jpg",
+    "static/media/netflix.5a78c4b9.png": "/Portfolio-Pedro/static/media/netflix.5a78c4b9.png",
+    "static/media/App.css": "/Portfolio-Pedro/static/media/testimonials-bg.75612be7.jpg",
+    "static/media/portfolio.e4d369bc.png": "/Portfolio-Pedro/static/media/portfolio.e4d369bc.png",
+    "static/media/task-manager.7cdcc29e.png": "/Portfolio-Pedro/static/media/task-manager.7cdcc29e.png",
+    "static/media/ufsc.e7df3140.png": "/Portfolio-Pedro/static/media/ufsc.e7df3140.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4007d9ed.js",
+    "static/css/2.9a4a10e0.chunk.css",
+    "static/js/2.9f625bfe.chunk.js",
+    "static/css/main.c7453bfe.chunk.css",
+    "static/js/main.e6b04352.chunk.js"
+  ]
+}
