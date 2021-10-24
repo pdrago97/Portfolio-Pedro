@@ -1,46 +1,46 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebookF, faGoogle } from "@fortawesome/free-brands-svg-icons";
-import { faDesktop, faFileCode } from "@fortawesome/free-solid-svg-icons";
+import { faPython, faReact, faAws } from "@fortawesome/free-brands-svg-icons";
+import { faDatabase } from "@fortawesome/free-solid-svg-icons";
 
 const Services = () => {
   return (
     <div id="services" className="services">
-      <h1 className="py-5">Meus Serviços</h1>
+      <h1 className="py-5">Minhas Skills</h1>
       <div className="container">
         <div className="row">
           <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
-              <div className="circle"><FontAwesomeIcon className="icon" icon={faDesktop} size="2x" /></div>
-              <h3>Web Design</h3>
-              <p>Projetos e soluções unicas com foco em resultados</p>
+              <div className="circle"><FontAwesomeIcon className="icon" icon={faPython} size="2x" /></div>
+              <h3>Python/Django</h3>
+              <p>Utilizando os principios do framework Django construo projetos integrados através do conceito de MVC, Construção de API's Restfull com FastApi/Flask.</p>
             </div>
           </div>
           {/* - */}
           <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
-              <div className="circle"><FontAwesomeIcon className="icon" icon={faFileCode} size="2x" /></div>
+              <div className="circle"><FontAwesomeIcon className="icon" icon={faReact} size="2x" /></div>
 
-              <h3>Desenvolvimento Web</h3>
-              <p>Construir seu website com as tecnologias mais modernas no mercado.</p>
+              <h3>ReactJs/NodeJs</h3>
+              <p>Utilizando Javascript, a linguagem da Web, construo interfaces interativas e modernas</p>
             </div>
           </div>
           {/* - */}
           <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
-              <div className="circle"><FontAwesomeIcon className="icon" icon={faFacebookF} size="2x" /></div>
+              <div className="circle"><FontAwesomeIcon className="icon" icon={faDatabase} size="2x" /></div>
 
-              <h3>Facebook Ads</h3>
-              <p>Cative e atinja seus clientes com anuncios na maior das redes sociais.</p>
+              <h3>Bancos de Dados</h3>
+              <p>Modelagem e implementação de bancos de dados altamente disponíveis. PostgresSql, MongoDb, DynamoDB</p>
             </div>
           </div>
           {/* - */}
           <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
-              <div className="circle"><FontAwesomeIcon className="icon" icon={faGoogle} size="2x" /></div>
+              <div className="circle"><FontAwesomeIcon className="icon" icon={faAws} size="2x" /></div>
 
-              <h3>Google Ads</h3>
-              <p>Apareça nas buscas de seus clientes por serviços como o seu.</p>.
+              <h3>Amazon WebServices</h3>
+              <p>Utilização dos serviços da AWS para escalar a aplicação com segurança, confiabilidade e economia. DynamoDb, EC2, S3, Elastic Beanstalk</p>.
               </div>
           </div>
         </div>
