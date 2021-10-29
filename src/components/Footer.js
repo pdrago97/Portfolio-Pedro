@@ -34,7 +34,7 @@ const Footer = () => {
                 <br />
                 <a className="footer-nav">Sobre Mim</a>
                 <br />
-                <a className="footer-nav">Serviços</a>
+                <a className="footer-nav">Minhas Skills</a>
               </div>
               <div className="col">
                 <a className="footer-nav">Experiencia</a>
@@ -54,9 +54,7 @@ const Footer = () => {
               <SocialIcon url="https://github.com/pdrago97" />
             </div>
             <p className="pt-3 text-center">
-              Copyright&copy;
-              {new Date().getFullYear()}&nbsp;Pedro Reichow | All Rights
-              Reserved
+              {new Date().getFullYear()}&nbsp;Pedro Reichow | Todos os Direitos Reservados
             </p>
           </div>
         </div>

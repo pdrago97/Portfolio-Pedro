@@ -11,11 +11,11 @@ import empresa8 from "../images/empresas/citeb.jpeg";
 const Experience = () => {
   return (
     <div id="experience" className="experience">
-      <div className="d-flex justify-content-center my-5">
+      <div className="d-flex justify-content-center my-5" >
         <h1>Experiência</h1>
       </div>
       <div className="container experience-wrapper">
-        <div className="timeline-block timeline-block-right">
+        <div className="timeline-block timeline-block-right rounded">
           <div className="marker"></div>
           <div className="timeline-content">
             <h2>Formação Técnica</h2>

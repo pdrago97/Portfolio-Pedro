@@ -44,7 +44,7 @@ const Navbar = () => {
                 className="nav-link"
                 href="#"
               >
-                Serviços
+                Minhas Skills
               </Link>
             </li>
             <li className="nav-item">
