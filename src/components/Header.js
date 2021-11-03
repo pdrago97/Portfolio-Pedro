@@ -11,12 +11,24 @@ const Header = () => {
         <Typed
           className="typed-text"
           strings={[
-            "Design Web",
             "Desenvolvimento Web",
-            "Redes Sociais",
             "Aplicativos Mobile",
-            "Google ADS",
-            "Facebook ADS",
+            "Javascript",
+            "ReactJs",
+            "NodeJS",
+            "NextJs",
+            "Jest",
+            "Amazon AWS",
+            "Python",
+            "Pandas",
+            "Selenium",
+            "Requests",
+            "Django",
+            "Flask",
+            "FastApi",
+            "Postgres",
+            "MongoDB",
+            "MySQL",
           ]}
           typeSpeed={33}
           backSpeed={33}
